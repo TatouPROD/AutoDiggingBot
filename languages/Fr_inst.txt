@@ -1,0 +1,24 @@
+I. Connecte toi à Club Penguin.
+II. Porte le casque de mineur et enmène un puffle avec toi. (Si possible le puffle d'or).
+III. Rends toi à la mine d'or.
+IV. Ouvre ton profil. Place le à gauche de la fenêtre.
+V. Retourne sur l'Auto Digging Bot et clique sur 'Viens Miner !'.
+VI. Choisis les options de minage, puis 'Suivant'.
+VII. Quand tu es prèt, clique sur 'Exécuter'.
+VIII. Effectue la procédure qui va suivre.
+ATTENTION : Tu dois suivre la procédure dans le bonne ordre. C'est important !
+IX. Suis l'ordre des cliques pour initialiser le programme.
+X. Une fois le 9ème clique effectué, le programme se lance automatiquement.
+A TOI LA MONTAGNE DE COINS !
+Voici comment contrôler et suivre le bot à distance :
+1. Enregistre le dossier principale "AutoDiggingBot" dans un cloud.
+2. Exécute l'Auto Digging Bot depuis le cloud.
+3. Tu peux maintenant suivre l'avancement avec l'image et le fichier "datas" dans le dossier "remote".
+4. Renommer le fichier "enter_consigne" par le terme suivant fera l'action suivante :
+stop --> stop le programme
+shutdown --> stop le programme et éteint le PC
+Quelques conseils pratiques :
+1. Ferme tout autre application autre que Club Penguin et Auto Digging Bot.
+2. Enregistre l'app dans un cloud (Voir Contrôle à distance).
+3. Modifie les paramètres economie d'énergie.
+24

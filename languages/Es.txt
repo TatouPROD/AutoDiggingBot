@@ -1,0 +1,24 @@
+Presentación
+Instrucciones
+Licencia
+¡Minar!
+Bienvenida a el Auto Digging Bot para Club Penguin
+Returno
+Ejecutar
+¿Estás listo para minar? Asegúrate de que está abierto Club Penguin justo detrás y que tu perfil está abierto a la derecha.
+Cuando estés listo, haz clic en ejecutar y sigue el procedimiento. Si no conoces el procedimiento, clic en Instrucciones.
+El programa acaba de ser ejecutado. Vas en NewCP y haces el procedimiento. ¡Bueno minar!
+minutos
+hora
+Siguiente
+Sí
+No
+Selecciona las opciones
+Tiempo de minado:
+¿Quieres apagar el ordenador al final del programa?
+¿Quieres comprar todos los items que quieras pero no quieres perder el tiempo ganando coins?
+¡El Auto Digging Bot es para ti!
+¡Sigue las instrucciones y en un par de horas, la riqueza!
+Uso del control remoto
+Consejos
+Puedes detener el bot haciendo clic en 'escap'

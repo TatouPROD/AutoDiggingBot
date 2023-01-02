@@ -1,0 +1,24 @@
+I. Connect on Club Penguin.
+II. Wear the Miner Helmet and take a Puffle. (If possible the Gold Puffle).
+III. Go to the Gold Mine.
+IV. Open your profil. Put it on the left side.
+V.Return to the Auto Digging Bot App and click on 'Dig Now!'.
+VI. Chose your options, then 'Next'.
+VII. When you're ready, click on execut.
+VIII. Do the following procedure.
+WARNING : You must follow the procedure in the right order. It's important !
+IX. Follow the click order to initializ the program.
+X. Once the 9th click perform, the program run auttomatically.
+IN FEW HOURS, A COINS MONTAIN FOR YOU !
+Here's how to remote control and follow the bot :
+1. Save the main folder "AutoDiggingBot" in a cloud.
+2. Execut the Auto Digging Bot from the cloud.
+3. You can now follow the digging advancement with the image and the "datas" files in the "remote" folder.
+4. Renaming the file "enter_consigne" by the following term will do this action :
+stop --> stop the program
+shutdown --> stop the program and shutdown the PC
+Some pratical tips :
+1. Close any other app other than Club Penguin and the Auto Digging Bot.
+2. Save the app in a cloud (see Remote control usage).
+3. Modifie the power saving settings of your PC.
+24

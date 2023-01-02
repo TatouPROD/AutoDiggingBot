@@ -1,0 +1,25 @@
+Presentation
+Instructions
+Licence
+Dig Now!
+Welcome to the Auto Digging Bot for Club Penguin
+Back
+Execut
+Ready to dig? Before running, make sure Club Penguin is open behind and your profil open in the left side. 
+When you're ready, click on execut et follow the procedure. If you don't know the procedure, click on Instructions.
+The Programme just has been runed. Go on NewCP and do the procedure. Good Drill!
+minuts
+hour
+Next
+Yes
+No
+Select the options
+Dig during :
+Do you want to shutdown the Computer at the end ?
+Do you want to be able to buy all the items you want but you don't want to waste time to farm coins ?
+The Auto Digging Bot is for you !
+Follow the instructions and in a few hours, you have the wealth !!!
+Remote control usage
+Tips
+You can stop the Bot when you want by pressing 'Escap'
+25
