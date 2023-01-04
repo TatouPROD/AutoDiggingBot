@@ -8,7 +8,7 @@ VII. When you're ready, click on execut.
 VIII. Do the following procedure.
 WARNING : You must follow the procedure in the right order. It's important !
 IX. Follow the click order to initializ the program.
-X. Once the 9th click perform, the program run auttomatically.
+X. Once the 7th click perform, the program run auttomatically.
 IN FEW HOURS, A COINS MONTAIN FOR YOU !
 Here's how to remote control and follow the bot :
 1. Save the main folder "AutoDiggingBot" in a cloud.
