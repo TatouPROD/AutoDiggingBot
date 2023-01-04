@@ -1,9 +1,9 @@
 1. Haz clic parte superior izquierda zona de minas
 2. Haz clic parte superior derecha zona de minas
 3. Haz clic parte inferior izquierda zona de minas
-4. Haz clic parte inferior derecha zona de minas
-5. Haz clic en el icono puffle
-6. Haz clic en bolso el puffle
-7. Haz clic parte superior izquierda de tu coins (perfil)
-8. Haz clic parte inferior derecha de tu coins (perfil)
-9. Haz clic en tu perfil (icono pingüino azul)
+2. Haz clic parte inferior derecha zona de minas
+3. Haz clic en el icono puffle
+4. Haz clic en bolso el puffle
+5. Haz clic parte superior izquierda de tu coins (perfil)
+6. Haz clic parte inferior derecha de tu coins (perfil)
+7. Haz clic en tu perfil (icono pingüino azul)

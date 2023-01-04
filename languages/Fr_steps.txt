@@ -1,9 +1,9 @@
 1. Clique coin haut gauche zone de minage
 2. Clique coin haut droit zone de minage
 3. Clique coin bas gauche zone de minage
-4. Clique coin bas droit zone de minage
-5. Clique sur l'icone puffle
-6. Clique sur la bourse puffle
-7. Clique haut gauche de tes coins (profil)
-8. Clique bas droit de tes coins (profil)
-9. Clique sur ton profil (icone pinguin bleu)
+2. Clique coin bas droit zone de minage
+3. Clique sur l'icone puffle
+4. Clique sur la bourse puffle
+5. Clique haut gauche de tes coins (profil)
+6. Clique bas droit de tes coins (profil)
+7. Clique sur ton profil (icone pinguin bleu)
