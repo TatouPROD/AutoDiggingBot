@@ -22,4 +22,12 @@ Suis les instructions et dans quelques heures, à toi la richesse !!!
 Utilisation du contrôle à distance
 Conseils
 Tu peux arrêter le bot quand tu veux en cliquant sur 'echap'
-https://www.youtube.com/watch?v=7nwJVvcnlFg&t=126s
+https://www.youtube.com/@tatouprod/featured
+Aider le développeur en promouvant le bot pendant que tu mines ?
+En cochant 'Oui' ton penguin fera de la pub pour le bot
+C'est un moyen pour toi de remercier le développeur :)
+Peu
+Moyen
+Beaucoup
+Quantité de promotion : 
+32

@@ -22,4 +22,11 @@ Tiempo de minado:
 Uso del control remoto
 Consejos
 Puedes detener el bot haciendo clic en 'escap'
-https://www.youtube.com/watch?v=7nwJVvcnlFg&t=126s
+https://www.youtube.com/@tatouprod/featured
+¿Ayudar el programador promoviendo el bot mientras minas?
+Marcando 'Si' tu penguin anunciará para el bot
+Es un medio para ti de agradecer el programador :)
+Poco
+Medio
+Mucho
+cantidad de promoción:

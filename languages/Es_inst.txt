@@ -8,7 +8,7 @@ VII. Cuando estés listo, haz clic en 'Ejecutar'.
 VIII. Realizas el procedimiento que sigue.
 ATENCIÓN : tienes que seguir el procedimiento en el orden correcto. ¡Es importante!
 IX. 
-X. Después de hacer el 7° clic, el programa se inicia automáticamente.
+X. Después de hacer el 9° clic, el programa se inicia automáticamente.
 ¡A TI LA MONTANA DE COINS!
 Así es como controlar y seguir el bot a distancia:
 1. Registras la carpeta principal "AutoDiggingBot" en una nube.
