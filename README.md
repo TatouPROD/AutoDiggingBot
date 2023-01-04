@@ -3,6 +3,10 @@
 
 Enjoy it ! Have a lot of coins ! Share it !
 
+Avaible in English!
+¡disponible en español!
+Disponible en Français !
+
 
 
 
