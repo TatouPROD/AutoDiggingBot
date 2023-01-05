@@ -1,11 +1,14 @@
 # AutoDiggingBot for Club Penguin !
-Are-you ready to earn a quantity of coins that you never imagined ?!
-This is a AutoDiggingBot for Club Penguin !
+## Are-you ready to earn a quantity of coins that you never imagined ?!
 
-3 languages avaible ! English, Español, Français.
+### 3 languages avaible ! English, EspaÃ±ol, FranÃ§ais.
+
+-----------
 
 
-=====EN=====
+ENGLISH
+-----------
+
 Welcome to the AutoDiggingBot! With it, you will earn more than 300,000 coins a night!
 
 To use, execut 'AutoDiggingBot.exe', click on 'Drill now!', follow the instructions and just let the program run !
@@ -15,39 +18,43 @@ You can find the instructions inside the app, or watch the following video :
 https://www.youtube.com/watch?v=7nwJVvcnlFg&t=126s
 
 Earn a lot of coins! Comment the app! Share it! :)
-============
+
+-----------
 
 
+ESPANOL
+-----------
+Â¡Bienvenido al AutoDiggingBot! Â¡Con Ã©l, ganarÃ¡s mÃ¡s de 300.000 coins en una noche!
 
-=====ES=====
-¡Bienvenido al AutoDiggingBot! ¡Con él, ganarás más de 300.000 coins en una noche!
+Para usarlo; abre 'AutoDiggingBot.exe', haz clic en Â¡Minar!, sigue la instrucciÃ³n y deja el programa funcionar solo.
+Â¡En unas horas, una montaÃ±a de coins para ti!
 
-Para usarlo; abre 'AutoDiggingBot.exe', haz clic en ¡Minar!, sigue la instrucción y deja el programa funcionar solo.
-¡En unas horas, una montaña de coins para ti!
-
-Puedes encontrar las instrucciónes en la aplicación, o ver el siguiente vídeo:
+Puedes encontrar las instrucciÃ³nes en la aplicaciÃ³n, o ver el siguiente vÃ­deo:
 https://www.youtube.com/watch?v=7nwJVvcnlFg&t=126s
 
-¡Gana mucho coins! ¡Comenta la aplicación! ¡Comparte la! :)
-============
+Â¡Gana mucho coins! Â¡Comenta la aplicaciÃ³n! Â¡Comparte la! :)
+
+-----------
 
 
 
-=====FR=====
+FRANCAIS
+-----------
 Bienvenue sur le AutoDiggingBot ! Avec lui, tu gagneras plus de 300 000 coins en une nuit !
 
 Pour l'utiliser, lance 'AutoDiggingBot.exe', clique sur 'Viens miner !', suis les instructions et laisse le programme tourner tout seul.
-Dans quelques heures, une montagne de coins sera à toi !
+Dans quelques heures, une montagne de coins sera Ã  toi !
 
-Tu peux trouver les instructions dans l'application, ou regarder la vidéo suivante :
+Tu peux trouver les instructions dans l'application, ou regarder la vidÃ©o suivante :
 https://www.youtube.com/watch?v=7nwJVvcnlFg&t=126s
 
-Gagne beaucoup de coins ! Commente l'application ! Partage là ! :)
-============
+Gagne beaucoup de coins ! Commente l'application ! Partage lÃ  ! :)
+
+-----------
 
 
 
 
 
 This is a free app.
-©TatouPRODUCT©
+Â©TatouPRODUCTÂ©
